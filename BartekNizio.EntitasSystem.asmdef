@@ -1,5 +1,5 @@
 {
-    "name": "BartekNizio",
+    "name": "BartekNizio.EntitasSystem",
     "rootNamespace": "",
     "references": [
         "Zenject",
