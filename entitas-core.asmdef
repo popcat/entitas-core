@@ -1,0 +1,20 @@
+{
+    "name": "BartekNizio.EntitasSystem",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Entitas.dll",
+        "Entitas.CodeGeneration.Attributes.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
