@@ -1,0 +1,19 @@
+{
+  "name": "com.barteknizio.entitas-core",
+  "version": "0.0.1",
+  "displayName": "Entitas Core",
+  "description": "Package used for development with Entitas in Unity. Contains common and sample features.",
+  "unity": "6000.1",
+  "author": {
+    "name": "Bartek Nizio",
+    "email": "",
+    "url": ""
+  },
+  "samples": [
+    {
+      "displayName": "Test Sample",
+      "description": "Test Sample",
+      "path": "Samples~/"
+    }
+  ]
+}
