@@ -1,5 +1,5 @@
 {
-    "name": "BartekNizio.EntitasSystem",
+    "name": "BartekNizio",
     "rootNamespace": "",
     "references": [
         "Zenject",
@@ -11,7 +11,8 @@
     "overrideReferences": true,
     "precompiledReferences": [
         "Entitas.dll",
-        "Entitas.CodeGeneration.Attributes.dll"
+        "Entitas.CodeGeneration.Attributes.dll",
+        "Entitas.VisualDebugging.Unity.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
