@@ -1,0 +1,38 @@
+{
+    "name": "BartekNizio.EntitasSystem",
+    "rootNamespace": "",
+    "references": [
+        "Zenject",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Entitas.dll",
+        "Entitas.CodeGeneration.Attributes.dll",
+        "Entitas.Migration.dll",
+        "Entitas.Migration.Unity.Editor.dll",
+        "Entitas.Unity.dll",
+        "Entitas.Unity.Editor.dll",
+        "Entitas.VisualDebugging.Unity.dll",
+        "Entitas.VisualDebugging.Unity.Editor.dll",
+        "Jenny.dll",
+        "Jenny.Generator.dll",
+        "Jenny.Generator.Unity.Editor.dll",
+        "Jenny.Plugins.dll",
+        "Jenny.Plugins.Unity.dll",
+        "DesperateDevs.Caching.dll",
+        "DesperateDevs.Extensions.dll",
+        "DesperateDevs.Reflection.dll",
+        "DesperateDevs.Serialization.dll",
+        "DesperateDevs.Threading.dll",
+        "DesperateDevs.Unity.dll",
+        "DesperateDevs.Unity.Editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
