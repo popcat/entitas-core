@@ -11,9 +11,9 @@
   },
   "samples": [
     {
-      "displayName": "Test Sample",
-      "description": "Test Sample",
-      "path": "Samples~/"
+      "displayName": "Features",
+      "description": "Features",
+      "path": "Samples~/Features"
     }
   ]
 }
